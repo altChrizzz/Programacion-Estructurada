@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int mostrarMenu() {
-    int o; // 'o' para opción
+    int o; // 'o' para opciÃ³n
     printf("\n--- Menu ---\n");
     printf("Que Quieres hacer ?\n");
     printf("1) Mostrar todos los resultados\n");
